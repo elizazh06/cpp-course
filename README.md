@@ -5,11 +5,11 @@
 - [Олимпиадки](./olympiads/)
 - [Мануалы](./manuals/)
    - [Работа с ЯКонтестом](./manuals/YContest.md)
-   - [Общий мануал курсов](./manuals/manual.md)
-   - [Установка VSCode + C++](./manuals/VSCodeCppInstalation/)
+   - [Общий мануал курсов](./manuals/Courses.md)
+   - [Установка VSCode + C++](./manuals/VSCodeCppInstallation/)
 - [Группы](./groups/)
-  - [10 класс](./groups/241/README.md)
-  - [11 класс](./groups/244/README.md)
+  - [10 класс](./groups/10/README.md)
+  - [11 класс](./groups/11/README.md)
 
 ## Приветствие
 
