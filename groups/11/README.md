@@ -30,7 +30,8 @@
 
 | Тема + ссылка | Дедлайн |
 |---------------|---------|
-| [Ссылки, указатели, связный список](https://official.contest.yandex.ru/contest/98759/enter) | 02.09.25 – 09.09.25 |
+| [Ссылки, указатели, связный список](https://official.contest.yandex.ru/contest/98759/enter) | 02.09.26 – 13.09.26 |
+| [Сортировки](https://official.contest.yandex.ru/contest/99173/enter) | 09.09.26 – 27.09.26 |
 
 ## Творческие работы
 
