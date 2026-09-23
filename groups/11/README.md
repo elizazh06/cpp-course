@@ -32,7 +32,7 @@
 |---------------|---------|
 | [Ссылки, указатели, связный список](https://official.contest.yandex.ru/contest/98759/enter) | 02.09.26 – 13.09.26 |
 | [Сортировки](https://official.contest.yandex.ru/contest/99173/enter) | 09.09.26 – 27.09.26 |
-| [Сортировки](https://official.contest.yandex.ru/contest/99958/enter) | 23.09.26 – 07.10.26 |
+| [Классы и структуры](https://official.contest.yandex.ru/contest/99958/enter) | 23.09.26 – 07.10.26 |
 
 ## Творческие работы
 
