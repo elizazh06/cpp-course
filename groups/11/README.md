@@ -33,7 +33,7 @@
 | [Ссылки, указатели, связный список](https://official.contest.yandex.ru/contest/98759/enter) | 02.09.26 – 13.09.26 |
 | [Сортировки](https://official.contest.yandex.ru/contest/99173/enter) | 09.09.26 – 27.09.26 |
 | [Классы и структуры](https://official.contest.yandex.ru/contest/99958/enter) | 23.09.26 – 07.10.26 |
-| [Геометрия](https://official.contest.yandex.ru/contest/100882/enter) | 07.09.26 – 21.10.26 |
+| [Геометрия](https://official.contest.yandex.ru/contest/100882/enter) | 07.10.26 – 21.10.26 |
 | [Графы и DFS](https://official.contest.yandex.ru/contest/101920/enter) | 21.10.26 – 18.11.26 |
 
 ## Творческие работы
